@@ -1,5 +1,6 @@
 # TextToSpeech-API
-This project contains an Application Programming Interface that turns Text into Speech using the FreeTTS library 
+This project contains an Application Programming Interface that turns Text into Speech using the FreeTTS library.
+Read the .pdf file for more information on the projects architecture. 
 
 ## Functions 
 - Turns sipmple text written in the Text Editor into Speech 
@@ -18,4 +19,4 @@ Java
 Eclipse
 
 # Creator 
-Evangelos Stamatis and Andreas Katsantonis as part of their undergraduate studies on the department of Computer Science and Engineerin Univercity of Ioannina 
+Evangelos Stamatis and Andreas Katsantonis as part of their undergraduate studies on the department of Computer Science and Engineerin Univercity of Ioanninaσ.
